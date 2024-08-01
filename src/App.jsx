@@ -1,10 +1,10 @@
-
+import { LandingPage } from "./components/LandingPage"
 
 export default function App () {
     return (
-        <div>
-
-        </div>
+        <main>
+            <LandingPage />
+        </main>
     )
 }
 
