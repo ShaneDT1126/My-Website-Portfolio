@@ -4,7 +4,7 @@ export function NavbarView(){
     return(
         <nav className="navbar">
             <div className='nav-logo'>
-                ShaneDT
+                <a href='#'>ShaneDT</a>
             </div>
             <div className='nav-links'>
                 <a href='#'>Home</a>
