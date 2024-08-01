@@ -1,3 +1,25 @@
+.header{
+    margin: 25px 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 35px;
+    width: 100vw;
+}
+
+.left-content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right-content{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .header-gif{
-    filter: grayscale(100%) brightness(20%);
+    filter: grayscale(100%) brightness(0%);
 }
