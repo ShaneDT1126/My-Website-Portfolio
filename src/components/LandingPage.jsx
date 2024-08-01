@@ -17,6 +17,8 @@ export function LandingPage(){
                     <img className="header-gif" align="right" width={'400px'} height={'400px'} alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
                 </div>
             </header>
+
+            <hr />
             
         </div>
     )
